@@ -41,11 +41,11 @@
 
 ---
 
-### 📂 Projects (Coming Soon – Upload or Pin)
+### 📂 Company Projects
 
-- `wiseish-dashboard-ui` – Admin dashboard UI with filters, charts, and TailwindCSS
-- `media-gen-tool` – Internal tool to automate WhatsApp media creation from Excel
-- `expertifyme-frontend` – Multi-page SEO-optimized business finder using React + Redux Toolkit
+- `wiseish(dashboard site and mobile app)` – Admin dashboard UI with filters, charts, and TailwindCSS
+- `snaptext` – Internal tool to automate WhatsApp media creation from Excel
+- `expertifyme` – Multi-page local expert finder using React + Redux Toolkit
 
 ---
 
