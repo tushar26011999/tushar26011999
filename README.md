@@ -2,18 +2,19 @@
 
 <p align="center">
   <b>Frontend Developer | ReactJS | TypeScript | TailwindCSS | React Native</b><br>
-  <i>Building user-focused, performance-driven apps for 3+ years</i>
+  <i>Building user-focused, performance-driven apps for 4 years</i>
 </p>
 
 ---
 
 ### 🔥 About Me
 
-- 👨‍💻 Frontend Developer with **3+ years of experience** building responsive and scalable web interfaces
+- 👨‍💻 Frontend Developer with **4 years of experience** building responsive and scalable web interfaces
 - 🚀 Skilled in **ReactJS, TypeScript, Redux Toolkit, TailwindCSS, and Framer Motion**
+- 🖥️ Currently learning NextJS and SSR.
 - 🧠 Passionate about performance, UX, component architecture & clean code
-- 🧩 Currently building tools and dashboards at **Electrogets** and contributing to internal frameworks
-- 🎯 Open to new opportunities in **Frontend / UI Engineering roles (Remote / Hybrid)**
+- 🧩 Recently worked at at **Electrogets** building tools, dashboards and contributing to internal frameworks
+- 🎯 Open to new opportunities in **Frontend / UI Engineering roles**
 
 ---
 
